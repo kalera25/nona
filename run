@@ -705,11 +705,9 @@ def register():
 #LOGIN KEY
 def cok():
     os.system("clear")
-    print("%s[*] ADMIN TIDAK BERTANGGUNG JAWAB ATAS PENYALAHGUNAAN TOOLS INI"%(N))
-    print("[*] UNTUK MENDAPATKAN COOKIES GUNAKAN TOOLS COOKIEDOUGH EKSTENSION YANG ADA DI KIWI BROWSER (%sdownload browser kiwi di play store%s)"%(H,N))
-    print("[*] JIKA TIDAK MENGERTI MENGGUNAKAN TOOLS SILAHKAN HUBUNGI ADMIN DENGAN KETIK '%sADMIN%s'"%(H,N))
-    print("[*] JIKA INGIN MENGGUNAKAN FREE USER SILAHKAN KETIK %sTRIAL%s UNTUK MENDAPATKAN API KEY GERATIS (%s1 day%s)"%(H,N,H,N))
-    print("[*] (ADMIN IS NOT RESPONSIBLE FOR ABUSE OF THIS TOOL)")
+    print("ADMIN tidak bertangung jawab atas penggunaan TOOL ini")
+    print("[*] CHAT ADMIN ketiK '%sADMIN%s'"%(H,N))
+    print("[*] KEY GRATIS ketik %sTRIAL%s'"%(H,N))
     print("[*] SCRIPT TELAH DI UPATE PADA TANGGAL [Senin 07 Februari 2022]")
     key = input("\n[*] masukan api key kamu : ")
     if key == '':
