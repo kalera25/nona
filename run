@@ -93,7 +93,7 @@ def jalan(z):
 
 # LO KONTOL
 def logo():
-	time.sleep (0.01)
+	time.sleep (0.0001)
 	print ('')
 	print ('')
 	jalan ('\033[1;37m                    ______---_____')
