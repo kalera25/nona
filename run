@@ -144,7 +144,7 @@ def hasil(ok,cp):
 def yayanxd():
     os.system('clear')
     r=requests.Session()
-    print('Jika \x1b[1;92mSISTEM FACEBOOK UPDATE \x1b[1;97mdan HASIL CRACK  tidak memeuaskan anda \x1b[1;91mDANA TIDAK BISA DIKEMBALIKAN\x1b[1;97m ....terima kasih')
+    print('Jika \x1b[1;92mSISTEM FACEBOOK UPDATE \x1b[1;97mdan HASIL CRACK JELEK \x1b[1;96mDANA TIDAK BISA DIKEMBALIKAN\x1b[1;97m ....terima kasih')
     cookie = input("\n %s[%s?%s] Cookies : %s"% (N,K,N,O))
     if cookie in['OPEN','Open','open']:
       jalan("\n  %s* %sanda akan di arahkan ke YouTube"%(O,H));time.sleep(3);os.system('xdg-open https://youtu.be/DF7bUCn0GFY');yayanxd()
